@@ -10,5 +10,5 @@ This template is great for learning SwiftUI Core Data.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/kilianbalaguer/Tasked/blob/main/LICENSE)
 
