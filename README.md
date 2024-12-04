@@ -1,5 +1,7 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<div align="center">
+    <img src="https://github.com/kilianbalaguer/Tasked/blob/main/Image/readme-icon.png" alt="Logo">
+</div>
 
 
 # Tasked
